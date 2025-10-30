@@ -60,6 +60,8 @@ A comprehensive consumer application built on VeriChainX, specifically designed 
 - **👥 User Management** - Role-based access control
 - **🔧 System Configuration** - Flexible platform customization
 
+This is the front end - https://africhain.live 
+
 ## 🏗️ Combined Architecture Overview
 
 ```mermaid
@@ -810,5 +812,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Troubleshooting](docs/troubleshooting.md)
 
 ---
+
 
 **Built with ❤️ using modern AI and cryptographic technologies**
