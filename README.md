@@ -8,6 +8,11 @@
 [![React](https://img.shields.io/badge/React-18+-61dafb.svg)](https://reactjs.org)
 [![Hedera](https://img.shields.io/badge/Hedera-Network-purple.svg)](https://hedera.com)
 
+
+## HASHGRAPH DEVELOPER CERTIFICATE 
+
+https://github.com/ZubeidHendricks/AfriChain/blob/main/4bc71149-76bd-41c7-b252-5a9b357e469a.pdf
+
 ## 🏗️ Two-Tier Architecture Overview
 
 This repository contains both the **VeriChainX protocol infrastructure** and the **AfriChain consumer application** that demonstrates how to build on top of VeriChainX.
