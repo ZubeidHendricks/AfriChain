@@ -13,6 +13,27 @@
 
 https://github.com/ZubeidHendricks/AfriChain/blob/main/4bc71149-76bd-41c7-b252-5a9b357e469a.pdf
 
+## 🛍️ Next: GlobalChain Muse (2026)
+
+**[GlobalChain Muse](https://github.com/ZubeidHendricks/globalchain-muse)** takes AfriChain's ideas into
+agentic shopping, built for the Meta Global AI Developer Hackathon (Oct 27 – Nov 4, 2026).
+
+A shopper's Muse agent talks to sellers' agents, checks every offer with Meta's **Muse Spark** and
+**SAM 3.1**, and buys the item together with its ownership NFT on **Hedera**.
+
+What it carries over from AfriChain, re-implemented in Python (no code copied):
+
+| AfriChain | GlobalChain Muse |
+|---|---|
+| Maker product registration | Muse Spark picks each item's distinctive marks from the maker's photos; SAM 3.1 captures them as an origin fingerprint |
+| Hedera NFT authenticity certificates | Certificate NFT in the maker's wallet; a copy that reuses the QR code is caught because the NFT isn't in the copier's wallet |
+| QR verification | QR code opens a public origin page |
+| HBAR / M-Pesa payments | Atomic Hedera swap: payment and the item's NFT change hands in one transaction |
+| Artisan onboarding | Shopify stores install an app to become verified sellers with a Hedera wallet |
+
+See [PRIOR_WORK.md](https://github.com/ZubeidHendricks/globalchain-muse/blob/main/PRIOR_WORK.md)
+for exactly what came from AfriChain and what was built during the hackathon.
+
 ## 🏗️ Two-Tier Architecture Overview
 
 This repository contains both the **VeriChainX protocol infrastructure** and the **AfriChain consumer application** that demonstrates how to build on top of VeriChainX.
